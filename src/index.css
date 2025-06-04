@@ -1,0 +1,100 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@layer base {
+  html {
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+  
+  body {
+    @apply text-surface-900 dark:text-surface-100;
+  }
+  
+  * {
+    @apply border-surface-200 dark:border-surface-700;
+  }
+}
+
+@layer utilities {
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .glass-effect {
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+  }
+  
+  .file-drag-active {
+    @apply border-primary bg-primary/5;
+  }
+  
+  .progress-bar {
+    background: linear-gradient(90deg, #4F46E5 0%, #10B981 100%);
+  }
+}
+
+/* Custom scrollbar for file lists */
+.file-list::-webkit-scrollbar {
+  width: 6px;
+}
+
+.file-list::-webkit-scrollbar-track {
+  @apply bg-surface-100 dark:bg-surface-800 rounded-full;
+}
+
+.file-list::-webkit-scrollbar-thumb {
+  @apply bg-surface-300 dark:bg-surface-600 rounded-full;
+}
+
+.file-list::-webkit-scrollbar-thumb:hover {
+  @apply bg-surface-400 dark:bg-surface-500;
+}
+
+/* Animation for progress bars */
+@keyframes progressSlide {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(0%); }
+}
+
+.progress-animate {
+  animation: progressSlide 0.5s ease-out;
+}
+
+/* Drag and drop visual feedback */
+.drag-zone {
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.drag-zone.drag-over {
+  transform: scale(1.02);
+  box-shadow: 0 0 0 2px #4F46E5, 0 0 20px rgba(79, 70, 229, 0.3);
+}
+
+/* File card hover effects */
+.file-card {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.file-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
+
+/* Glassmorphism effects */
+.glass-card {
+  background: rgba(255, 255, 255, 0.25);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+.dark .glass-card {
+  background: rgba(30, 41, 59, 0.25);
+  border: 1px solid rgba(148, 163, 184, 0.18);
+}

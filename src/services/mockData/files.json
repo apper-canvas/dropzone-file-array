@@ -1,0 +1,167 @@
+[
+  {
+    "id": "1",
+    "name": "project-proposal.pdf",
+    "size": 2457600,
+    "type": "application/pdf",
+    "uploadDate": "2024-01-15T14:30:00.000Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=400&h=300&fit=crop",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=150&h=150&fit=crop"
+  },
+  {
+    "id": "2",
+    "name": "team-photo.jpg",
+    "size": 3840000,
+    "type": "image/jpeg",
+    "uploadDate": "2024-01-15T13:45:00.000Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400&h=300&fit=crop",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=150&h=150&fit=crop"
+  },
+  {
+    "id": "3",
+    "name": "financial-report.xlsx",
+    "size": 1024000,
+    "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "uploadDate": "2024-01-15T12:20:00.000Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=300&fit=crop",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=150&h=150&fit=crop"
+  },
+  {
+    "id": "4",
+    "name": "presentation-slides.pptx",
+    "size": 5242880,
+    "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "uploadDate": "2024-01-15T11:15:00.000Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400&h=300&fit=crop",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=150&h=150&fit=crop"
+  },
+  {
+    "id": "5",
+    "name": "design-mockup.png",
+    "size": 2097152,
+    "type": "image/png",
+    "uploadDate": "2024-01-15T10:30:00.000Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=400&h=300&fit=crop",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=150&h=150&fit=crop"
+  },
+  {
+    "id": "6",
+    "name": "contract-template.docx",
+    "size": 512000,
+    "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "uploadDate": "2024-01-14T16:45:00.000Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=400&h=300&fit=crop",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=150&h=150&fit=crop"
+  },
+  {
+    "id": "7",
+    "name": "product-catalog.pdf",
+    "size": 8388608,
+    "type": "application/pdf",
+    "uploadDate": "2024-01-14T15:20:00.000Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=400&h=300&fit=crop",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=150&h=150&fit=crop"
+  },
+  {
+    "id": "8",
+    "name": "logo-design.svg",
+    "size": 204800,
+    "type": "image/svg+xml",
+    "uploadDate": "2024-01-14T14:10:00.000Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1626785774625-0b1c2c4eab67?w=400&h=300&fit=crop",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1626785774625-0b1c2c4eab67?w=150&h=150&fit=crop"
+  },
+  {
+    "id": "9",
+    "name": "meeting-notes.txt",
+    "size": 8192,
+    "type": "text/plain",
+    "uploadDate": "2024-01-14T13:30:00.000Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=400&h=300&fit=crop",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=150&h=150&fit=crop"
+  },
+  {
+    "id": "10",
+    "name": "website-banner.jpg",
+    "size": 1572864,
+    "type": "image/jpeg",
+    "uploadDate": "2024-01-14T12:15:00.000Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=400&h=300&fit=crop",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=150&h=150&fit=crop"
+  },
+  {
+    "id": "11",
+    "name": "user-manual.pdf",
+    "size": 3145728,
+    "type": "application/pdf",
+    "uploadDate": "2024-01-14T11:45:00.000Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=300&fit=crop",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop"
+  },
+  {
+    "id": "12",
+    "name": "invoice-template.xlsx",
+    "size": 786432,
+    "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "uploadDate": "2024-01-14T10:20:00.000Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=300&fit=crop",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=150&h=150&fit=crop"
+  },
+  {
+    "id": "13",
+    "name": "company-logo.png",
+    "size": 524288,
+    "type": "image/png",
+    "uploadDate": "2024-01-13T16:30:00.000Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1549924231-f129b911e442?w=400&h=300&fit=crop",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1549924231-f129b911e442?w=150&h=150&fit=crop"
+  },
+  {
+    "id": "14",
+    "name": "training-video.mp4",
+    "size": 26214400,
+    "type": "video/mp4",
+    "uploadDate": "2024-01-13T15:45:00.000Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=400&h=300&fit=crop",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=150&h=150&fit=crop"
+  },
+  {
+    "id": "15",
+    "name": "budget-analysis.csv",
+    "size": 131072,
+    "type": "text/csv",
+    "uploadDate": "2024-01-13T14:20:00.000Z",
+    "status": "completed",
+    "progress": 100,
+    "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=300&fit=crop",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=150&h=150&fit=crop"
+  }
+]

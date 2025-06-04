@@ -1,0 +1,133 @@
+[
+  {
+    "id": "1",
+    "name": "General Upload Filter",
+    "allowedTypes": [
+      "image/jpeg",
+      "image/png",
+      "image/gif",
+      "image/webp",
+      "image/svg+xml",
+      "application/pdf",
+      "text/plain",
+      "text/csv",
+      "application/msword",
+      "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "application/vnd.ms-excel",
+      "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "application/vnd.ms-powerpoint",
+      "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+    ],
+    "maxSize": 52428800,
+    "minSize": 1
+  },
+  {
+    "id": "2",
+    "name": "Image Only Filter",
+    "allowedTypes": [
+      "image/jpeg",
+      "image/png",
+      "image/gif",
+      "image/webp",
+      "image/svg+xml"
+    ],
+    "maxSize": 10485760,
+    "minSize": 1024
+  },
+  {
+    "id": "3",
+    "name": "Document Filter",
+    "allowedTypes": [
+      "application/pdf",
+      "application/msword",
+      "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "text/plain",
+      "text/rtf"
+    ],
+    "maxSize": 26214400,
+    "minSize": 1
+  },
+  {
+    "id": "4",
+    "name": "Spreadsheet Filter",
+    "allowedTypes": [
+      "application/vnd.ms-excel",
+      "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "text/csv"
+    ],
+    "maxSize": 5242880,
+    "minSize": 1
+  },
+  {
+    "id": "5",
+    "name": "Presentation Filter",
+    "allowedTypes": [
+      "application/vnd.ms-powerpoint",
+      "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+    ],
+    "maxSize": 20971520,
+    "minSize": 1024
+  },
+  {
+    "id": "6",
+    "name": "Video Filter",
+    "allowedTypes": [
+      "video/mp4",
+      "video/quicktime",
+      "video/x-msvideo",
+      "video/webm"
+    ],
+    "maxSize": 104857600,
+    "minSize": 10240
+  },
+  {
+    "id": "7",
+    "name": "Audio Filter",
+    "allowedTypes": [
+      "audio/mpeg",
+      "audio/wav",
+      "audio/ogg",
+      "audio/mp4"
+    ],
+    "maxSize": 20971520,
+    "minSize": 1024
+  },
+  {
+    "id": "8",
+    "name": "Archive Filter",
+    "allowedTypes": [
+      "application/zip",
+      "application/x-rar-compressed",
+      "application/x-tar",
+      "application/gzip"
+    ],
+    "maxSize": 209715200,
+    "minSize": 1024
+  },
+  {
+    "id": "9",
+    "name": "Code Filter",
+    "allowedTypes": [
+      "text/plain",
+      "application/javascript",
+      "text/html",
+      "text/css",
+      "application/json",
+      "application/xml"
+    ],
+    "maxSize": 2097152,
+    "minSize": 1
+  },
+  {
+    "id": "10",
+    "name": "Small Files Only",
+    "allowedTypes": [
+      "text/plain",
+      "text/csv",
+      "application/json",
+      "image/svg+xml"
+    ],
+    "maxSize": 1048576,
+    "minSize": 1
+  }
+]

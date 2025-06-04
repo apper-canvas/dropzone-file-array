@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "files": ["1", "2", "3"],
+    "totalSize": 7321600,
+    "startTime": "2024-01-15T14:25:00.000Z",
+    "endTime": "2024-01-15T14:32:00.000Z",
+    "status": "completed"
+  },
+  {
+    "id": "2",
+    "files": ["4", "5"],
+    "totalSize": 7340032,
+    "startTime": "2024-01-15T11:10:00.000Z",
+    "endTime": "2024-01-15T11:18:00.000Z",
+    "status": "completed"
+  },
+  {
+    "id": "3",
+    "files": ["6", "7", "8"],
+    "totalSize": 9105408,
+    "startTime": "2024-01-14T16:40:00.000Z",
+    "endTime": "2024-01-14T16:50:00.000Z",
+    "status": "completed"
+  },
+  {
+    "id": "4",
+    "files": ["9", "10"],
+    "totalSize": 1581056,
+    "startTime": "2024-01-14T13:25:00.000Z",
+    "endTime": "2024-01-14T13:28:00.000Z",
+    "status": "completed"
+  },
+  {
+    "id": "5",
+    "files": ["11", "12"],
+    "totalSize": 3932160,
+    "startTime": "2024-01-14T11:40:00.000Z",
+    "endTime": "2024-01-14T11:46:00.000Z",
+    "status": "completed"
+  },
+  {
+    "id": "6",
+    "files": ["13"],
+    "totalSize": 524288,
+    "startTime": "2024-01-13T16:28:00.000Z",
+    "endTime": "2024-01-13T16:30:00.000Z",
+    "status": "completed"
+  },
+  {
+    "id": "7",
+    "files": ["14"],
+    "totalSize": 26214400,
+    "startTime": "2024-01-13T15:30:00.000Z",
+    "endTime": "2024-01-13T15:55:00.000Z",
+    "status": "completed"
+  },
+  {
+    "id": "8",
+    "files": ["15"],
+    "totalSize": 131072,
+    "startTime": "2024-01-13T14:18:00.000Z",
+    "endTime": "2024-01-13T14:20:00.000Z",
+    "status": "completed"
+  },
+  {
+    "id": "9",
+    "files": [],
+    "totalSize": 0,
+    "startTime": "2024-01-13T12:00:00.000Z",
+    "endTime": null,
+    "status": "cancelled"
+  },
+  {
+    "id": "10",
+    "files": [],
+    "totalSize": 0,
+    "startTime": "2024-01-12T18:45:00.000Z",
+    "endTime": null,
+    "status": "active"
+  }
+]
